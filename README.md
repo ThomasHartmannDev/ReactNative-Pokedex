@@ -1,10 +1,10 @@
 # ReactNative-Pokedex
 
-    Welcome to My React Native App using Expo and TypeScript! This guide will help you set up and run the project on your local machine for development and testing purposes.
+Welcome to My React Native App using Expo and TypeScript! This guide will help you set up and run the project on your local machine for development and testing purposes.
 
-    Figma from the project: [Click Here](https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pok%C3%A9dex?type=design&node-id=18241-2789&mode=design&t=k20c7kmNk3BlTodA-0)
+Figma from the project: [Click Here](https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pok%C3%A9dex?type=design&node-id=18241-2789&mode=design&t=k20c7kmNk3BlTodA-0)
 
-    All Design credit to: [Flavio Farias](https://github.com/flaviofpsj)
+All Design credit to: [Flavio Farias](https://github.com/flaviofpsj)
 
 
 
